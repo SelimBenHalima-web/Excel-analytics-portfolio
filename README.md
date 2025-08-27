@@ -40,7 +40,7 @@ Each project includes a workbook (`.xlsx`) with formulas, pivot tables, and (opt
 
 Here is a snapshot of the Excel dashboard built for the retail dataset:
 
-Sales_By_country_and_Month.png
+![Sales by Country and Month](Sales_By_country_and_Month.png)
 
 
  Author: Selim Ben Halima
