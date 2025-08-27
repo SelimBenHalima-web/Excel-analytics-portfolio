@@ -43,5 +43,5 @@ Each project includes a workbook (`.xlsx`) with formulas, pivot tables, and (opt
 ![Sales by Country](assets/sales-by-country.png)
 
  Author: Selim Ben Halima
-  LinkedIn: https://www.linkedin.com/in/selim-benhalima/
-  GitHub : https://github.com/SelimBenHalima-web/Portfolio-analytics
+ - LinkedIn: https://www.linkedin.com/in/selim-benhalima/
+  - GitHub : https://github.com/SelimBenHalima-web/Portfolio-analytics
