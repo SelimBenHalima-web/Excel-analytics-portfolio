@@ -38,8 +38,9 @@ Each project includes a workbook (`.xlsx`) with formulas, pivot tables, and (opt
 
 ## Screenshots 
 
+Here is a snapshot of the Excel dashboard built for the retail dataset:
 
-![Excel Analytics Portfolio — Screenshot](Sales By country and Month .png)
+Sales_By_country_and_Month.png
 
 
  Author: Selim Ben Halima
