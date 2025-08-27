@@ -38,10 +38,8 @@ Each project includes a workbook (`.xlsx`) with formulas, pivot tables, and (opt
 
 ## Screenshots 
 
-You can add screenshots under an `assets/` folder and reference them here, e.g.:
 
-```md
-![HR Dashboard](assets/hr-dashboard.png)
+![Excel Analytics Portfolio — Screenshot](assets/readme-hero.png)
 ![Sales by Country](assets/sales-by-country.png)
 
  Author: Selim Ben Halima
