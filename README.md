@@ -39,8 +39,8 @@ Each project includes a workbook (`.xlsx`) with formulas, pivot tables, and (opt
 ## Screenshots 
 
 
-![Excel Analytics Portfolio — Screenshot](assets/readme-hero.png)
-![Sales by Country](assets/sales-by-country.png)
+![Excel Analytics Portfolio — Screenshot](Sales By country and Month .png)
+
 
  Author: Selim Ben Halima
  - LinkedIn: https://www.linkedin.com/in/selim-benhalima/
