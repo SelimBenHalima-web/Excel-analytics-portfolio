@@ -45,4 +45,4 @@ Here is a snapshot of the Excel dashboard built for the retail dataset:
 
  Author: Selim Ben Halima
  - LinkedIn: https://www.linkedin.com/in/selim-benhalima/
-  - GitHub : https://github.com/SelimBenHalima-web/Portfolio-analytics
+  - GitHub : https://github.com/SelimBenHalima-web
